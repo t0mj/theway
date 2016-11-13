@@ -240,7 +240,11 @@ section.statement h4 {
 	font-weight:normal;
 	padding-bottom:20px;
 	font-family: 'Montserrat', sans-serif;
-	color: #fff
+	color: #fff;
+}
+section.statement h4 small {
+	color: #cccccc;
+	font-size: 50%;
 }
 section.statement p {
   font-size: 16px;
